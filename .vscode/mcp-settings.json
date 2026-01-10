@@ -1,0 +1,10 @@
+{
+    "github.copilot.chat.mcpServers": {
+        "dotnet-review": {
+            "command": "node",
+            "args": [
+                "${workspaceFolder}/index.js"
+            ]
+        }
+    }
+}

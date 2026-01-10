@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "dotnet-review": {
+            "command": "node",
+            "args": [
+                "D:\\Projects\\MCP_Servers\\dotnet-review-mcp\\index.js"
+            ]
+        }
+    }
+}

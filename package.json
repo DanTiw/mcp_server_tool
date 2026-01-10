@@ -1,0 +1,30 @@
+{
+  "name": "dotnet-review-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for .NET Core 8 code review - microservice focused with memory leak detection, API optimization, and error handling validation",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "setup": "node setup-copilot.js"
+  },
+  "keywords": [
+    "mcp",
+    "dotnet",
+    "code-review",
+    "csharp",
+    "microservices",
+    "memory-leak-detection"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "fast-xml-parser": "^4.5.0",
+    "glob": "^10.3.10"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
