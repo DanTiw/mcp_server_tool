@@ -1,0 +1,14 @@
+D:\Projects\MCP_Servers\dotnet-review-mcp\target\release\deps\serde-f52765763e9177ee.d: C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Projects\MCP_Servers\dotnet-review-mcp\target\release\build\serde-596bcd575b031760\out/private.rs
+
+D:\Projects\MCP_Servers\dotnet-review-mcp\target\release\deps\libserde-f52765763e9177ee.rlib: C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Projects\MCP_Servers\dotnet-review-mcp\target\release\build\serde-596bcd575b031760\out/private.rs
+
+D:\Projects\MCP_Servers\dotnet-review-mcp\target\release\deps\libserde-f52765763e9177ee.rmeta: C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Projects\MCP_Servers\dotnet-review-mcp\target\release\build\serde-596bcd575b031760\out/private.rs
+
+C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\Danish\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+D:\Projects\MCP_Servers\dotnet-review-mcp\target\release\build\serde-596bcd575b031760\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\Projects\\MCP_Servers\\dotnet-review-mcp\\target\\release\\build\\serde-596bcd575b031760\\out
